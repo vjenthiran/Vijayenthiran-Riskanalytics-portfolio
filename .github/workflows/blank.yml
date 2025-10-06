@@ -1,0 +1,20 @@
+## :file_folder: Folder Structure 
+```plaintext
+wells-fargo-risk-dashboard/
+│
+├── data-sample/                   # anonymized mock data samples
+│   └── transactions_sample.csv
+│
+├── vba-scripts/
+│   └── dashboard_refresh.vba      # macro for data automation
+│
+├── reports/
+│   ├── monthly_risk_summary.pdf
+│   └── weekly_dashboard.xlsx
+│
+├── visuals/
+│   ├── dashboard_snapshot.png
+│   └── trend_chart_example.png
+│
+└── README.md                      # this file
+
